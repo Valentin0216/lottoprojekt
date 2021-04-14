@@ -1,1 +1,2 @@
 # lottoprojekt
+Márk írta 
