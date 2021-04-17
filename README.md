@@ -1,5 +1,5 @@
 # lottoprojekt
-Márk írta 
-Gábor írta
-Valentin gitből
-Gábor vs-ből
+Lottó projekt feladat
+Résztvevők: Gavlik Gábor - Index felelős
+            Dervaderics Márk - IMG felelős
+            Simon Valentin - CSS felelős
