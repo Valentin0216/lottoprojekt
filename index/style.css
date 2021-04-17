@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#baloldal{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(92, 103, 114);
+    color: white;
+    float: left;
+}
+
+#baloldal img{
+    height: 323px;
+}
+
+#baloldal p{
+    font-size: 17px;
+    margin-left: 30px;
+}
+
+hr{
+    width: 90%;
+    border-color: grey;
+}
+
+#jobboldal{
+    float: right;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+#jobboldal h1{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 50px;
+}
+
+h2{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 35px;
+}
