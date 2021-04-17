@@ -10,13 +10,13 @@ body{
     float: left;
 }
 
-#baloldal img{
-    height: 323px;
-}
-
 #baloldal p{
     font-size: 17px;
     margin-left: 30px;
+}
+
+#baloldal img{
+    width: 100%;
 }
 
 hr{
