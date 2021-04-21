@@ -1,7 +1,8 @@
 # lottoprojekt
-Lottó projekt feladat
+Lottó projekt feladat:
 
-https://valentin0216.github.io/lottoprojekt/
+Kezdőlap:
+https://valentin0216.github.io/lottoprojekt/index.html
 
 Résztvevők: Gavlik Gábor - Index felelős
             Dervaderics Márk - IMG felelős
