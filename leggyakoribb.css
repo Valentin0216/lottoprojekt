@@ -1,0 +1,40 @@
+html, body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+#bal{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(92, 103, 114);
+    float: left;
+}
+
+#bal img{
+    width: 100%;
+}
+
+#bal p{
+    color: white;
+    margin-left: 30px;
+
+}
+
+#jobb{
+    width: 70%;
+    float: right;
+    margin: auto;
+}
+
+#jobb h1{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+hr{
+    width: 90%;
+    border-color: grey;
+}
