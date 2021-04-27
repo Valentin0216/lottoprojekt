@@ -52,3 +52,8 @@ h2{
     margin-left: 100px;
     font-size: 35px;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
