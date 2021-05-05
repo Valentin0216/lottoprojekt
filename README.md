@@ -3,7 +3,7 @@ Lottó projekt feladat:
 
 Kezdőlap: https://valentin0216.github.io/lottoprojekt/index.html    
 Leggyakoribb számok: https://valentin0216.github.io/lottoprojekt/leggyakoribb.html  
-Leghasonlóbb számok: https://valentin0216.github.io/lottoprojekt/legasonlobb.html
+Leghasonlóbb számok: https://valentin0216.github.io/lottoprojekt/leghasonlobb.html
 
 Résztvevők: 
 * Gavlik Gábor - Index felelős
