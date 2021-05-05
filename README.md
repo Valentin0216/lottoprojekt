@@ -2,7 +2,7 @@
 Lottó projekt feladat:
 
 Kezdőlap:
-https://valentin0216.github.io/lottoprojekt/index.html
+https://valentin0216.github.io/lottoprojekt/index.html  
 Leggyakoribb számok:
 https://valentin0216.github.io/lottoprojekt/leggyakoribb.html
 
