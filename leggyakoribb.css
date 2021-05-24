@@ -72,6 +72,10 @@ a{
     text-decoration: none;
 }
 
+a:hover p{
+    font-size: 110%;
+}
+
 /*A leghosszabb oldalhoz tartozó CSS formázások*/
 
 /*Bal oldali CSS beállítások*/
@@ -91,4 +95,8 @@ a{
     color: white;
     margin-left: 30px;
 
+}
+
+#leghbal a:hover p{
+    font-size: 110%;
 }
