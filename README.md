@@ -1,10 +1,7 @@
 # lottoprojekt
 Lottó projekt feladat:
 
-Kezdőlap: https://valentin0216.github.io/lottoprojekt/index.html    
-Leggyakoribb számok: https://valentin0216.github.io/lottoprojekt/leggyakoribb.html  
-Leghasonlóbb számok: https://valentin0216.github.io/lottoprojekt/leghasonlobb.html  
-Leghosszabb sorozatok számsorokban: https://valentin0216.github.io/lottoprojekt/leghosszabb.html
+Weboldal elérése: https://valentin0216.github.io/lottoprojekt/index.html    
 
 Résztvevők: 
 * Gavlik Gábor - Index felelős
