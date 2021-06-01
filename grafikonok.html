@@ -6,9 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="leggyakoribb.css">
     <title>Grafikonok</title>
+    <script>
+        function imgWindow() {
+         window.open("image") }
+    </script>
 </head>
 <body>
-    <div id="baloldal">
+    <div id="bal">
         <img src="img/hatter.jpg">
         <a href="index.html"><p>Korábbi sorsolások</p></a>
         <hr>
@@ -20,9 +24,15 @@
         <hr>
         <a href="legkisebbosszegszamsorok.html"><p>Legkisebb összegű számsorok</p></a>
         <hr>
-        <p>Grafikonok</p>
+        <a href="grafikonok.html"><p>Grafikonok</p></a>
         <hr>
         <p>Érdekes történetek</p>
+    </div>
+
+    <div id="jobb">
+        <img src="img/nyeremenyertek.png" alt="Nyeremény érték" onclick="window.open(this.src)" id="grafikon1">
+        <br>
+        <img src="img/elofordulas.png" alt="Előfordulás" onclick="window.open(this.src)" id="grafikon2">
     </div>
 </body>
 </html>

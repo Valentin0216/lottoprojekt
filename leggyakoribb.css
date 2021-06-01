@@ -100,3 +100,15 @@ a:hover p{
 #leghbal a:hover p{
     font-size: 110%;
 }
+
+/*Grafikonok oldalhoz tartozó CSS beállítások*/
+
+#grafikon1{
+    height: 400px;
+    margin-left: 15%;
+}
+
+#grafikon2{
+    height: 400px;
+    margin-left: 11%;
+}
