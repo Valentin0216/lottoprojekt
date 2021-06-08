@@ -130,3 +130,19 @@ a:hover p{
     font-size: 110%;
     text-align: justify;
 }
+
+#forras{
+    color: white;
+    margin-left: 45%;
+    font-size: 30px;
+    background-color: grey;
+    border: 3px solid grey;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: black 5px 5px 5px 1px;
+}
+
+#forras:hover{
+    color: black;
+    font-size: 35px;
+}
